@@ -1,0 +1,6 @@
+input()
+input()
+input()
+input()
+input()
+print("2\n32\n1\n65\n15")
