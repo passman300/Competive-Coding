@@ -2,7 +2,7 @@
 Repo of competitive code questions on DMOJ, USACO, CF, Hackerank
 
 
-Handle: Passman300
+Handle: Passman300 DMOJ [https://dmoj.ca/user/passman300]
 
 Goals: 
 
